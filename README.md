@@ -13,6 +13,7 @@ Each folder contains:
 ---
 
 ## 📁 Folder Structure
+
 DSA/
 ├── 01-Array ADT
 ├── 02-LinkedList_ADT
@@ -68,8 +69,8 @@ DSA/
    gcc main.c -o output
 
 3.Run the executable:
-```bash
-./output
+  ```bash
+  ./output
 
 👩‍🎓 Author
 
