@@ -68,8 +68,9 @@ DSA/
    gcc main.c -o output
 
 3.Run the executable:
-
+```bash
 ./output
+
 👩‍🎓 Author
 
 Madhu
