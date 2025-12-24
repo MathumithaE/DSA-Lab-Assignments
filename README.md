@@ -14,6 +14,7 @@ Each folder contains:
 
 ## 📁 Folder Structure
 
+```text
 DSA/
 ├── 01-Array ADT
 ├── 02-LinkedList_ADT
@@ -25,7 +26,7 @@ DSA/
 ├── 08-ShortestPATH
 ├── 09-Graph_BFS_DFS
 └── 10-Hashing
-
+```
 
 ---
 
@@ -71,10 +72,12 @@ DSA/
 3.Run the executable:
   ```bash
   ./output
+```
 
 👩‍🎓 Author
 
-Madhu
+Mathumitha E
+
 Computer Science and Engineering
 
 📄 Note
@@ -84,6 +87,3 @@ interview preparation.
 
 ---
 
-## ✅ How to add this README to GitHub (IMPORTANT)
-
-1. Inside your **DSA folder**, create a new file:
